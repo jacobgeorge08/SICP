@@ -4,6 +4,6 @@
 
 ## Weekly Schedule
 
-- [x] week1 - Read and compelted execricses in chapter 1.1
+- [x] week1 - Read and completed execricses in chapter 1.1
 
 - [ ] week2 -
