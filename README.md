@@ -4,5 +4,6 @@
 
 Solutions to the popular MIT textbook
 
-[x] week1 - Read and compelted execricses in chapter 1.1
-[ ] week2 -
+- [x] week1 - Read and compelted execricses in chapter 1.1
+
+- [ ] week2 -
